@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+requests
+openai
+langchain
+python-dotenv
+python-multipart
